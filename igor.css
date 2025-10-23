@@ -1,0 +1,14 @@
+body{margin: 0px;}
+
+/* RESUME */
+
+.resume{max-width: 650px; margin:auto; background-color: rgb(255, 171, 141); padding: 20px}
+
+/* UWM */
+
+.wrapper{max-width:900px; margin:auto;}
+.uwm-header{background-color: coral; padding: 20px}
+.uwm-main{background-color: palevioletred; padding: 20px}
+.uwm-footer{background-color: pink; padding: 20px}
+
+.hremover{margin-top: 0px}
